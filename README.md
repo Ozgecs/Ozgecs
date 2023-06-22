@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, My Name is Özge</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Özge Şahin
+==================================================================================================================================
 
-<div align="center">
-
-
- </div>
- 
-<h3 align="center">Computer Engineering Student |  From Turkey</h3>
+Computer Engineer and Mobile Application Developer
+--------------------------------------------------
 
 
 ### <div align="center"></div>  
@@ -24,10 +21,6 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-### Skills
-
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
@@ -42,15 +35,7 @@
 </p>
 
 
+### Socials
+<p align="left"> <a href="https://www.github.com/https://github.com/Ozgecs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/%C3%B6zge-%C5%9Fahin-9b580018a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-
-
-<br/>  
-
-
-## Connect with me  
-<a href="https://linkedin.com/in/özge-şahin-9b580018a" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
   
