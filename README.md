@@ -112,6 +112,7 @@ I am also interested in music 🎸🎤
   </a>
 </p>
 
+<p align="center">
+  <img src="ozgecs.png" width="350" height="140">
+</p>
 
-
-  
