@@ -116,3 +116,5 @@ I am also interested in music 🎸🎤
   <img src="logo2.png" width="250" height="100">
 </p>
 
+https://milkab.com.tr/
+https://www.electrocom.com.tr/
