@@ -8,7 +8,7 @@
 
 <div align="center">
 
-I love dealing with mobile application development. 📱  
+Web development is what I love to work on. 💻  
   
 
 I like to discover new technologies 🖥️🕵️‍♂️  
